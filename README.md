@@ -13,7 +13,6 @@ This project was researched and implemented as a **Graduation Thesis**.
 3. [Tech Stack](#-tech-stack)
 4. [Smart Contract Workflows](#-smart-contract-workflows)
 5. [Database Design (Off-chain)](#-database-design-off-chain)
-6. [Installation & Setup](#-installation--setup)
 
 ---
 
@@ -77,11 +76,7 @@ Supabase handles relational entity models that correspond to on-chain tracking:
 
 ---
 
-## 🚀 Installation & Setup
 
-### Prerequisites
-* Node.js (v18+ recommended)
-* Metamask Wallet or any EVM-compatible Web3 wallet provider.
 
 ### 1. Smart Contract Deployment
 Navigate to your contracts directory, configure your environmental deployments, and ship via Thirdweb CLI:
